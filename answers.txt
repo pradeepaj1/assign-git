@@ -35,4 +35,7 @@ Why should you have different branches?
  4. To test/reproduce/fix a bug in a particular version
 
 In a project how many remote Git repositories do you usually have?
-    Usually, only one repository. Sometimes we might have some additional repositories if we are making a part of our project as open-source.
+    Usally, one or two repositories.
+    In case of web-based projects, we can have one repo for client side and another one for server side. 
+    Sometimes we might have some additional repositories if we are making a part of our project as open-source. 
+    In mobile projects, we can have mulitple repositories if multiple sdk's are built by different teams for a single product. 
